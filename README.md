@@ -1,6 +1,6 @@
 # DNS Exfiltrator via Hex
 
-This is a fork from Ivan Šincek. I modified the script to work with Hex encoding instead of Base64. The first parameter, the command, doesn't need to be encoded.
+This is a fork from [Ivan Šincek](https://github.com/ivan-sincek/). I modified the script to work with Hex encoding instead of Base64. The first parameter, the command, doesn't need to be encoded.
 
 Exfiltrate data with DNS queries in Hex. Based on CertUtil and NSLookup.
 
